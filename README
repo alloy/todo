@@ -1,5 +1,5 @@
 == Rucola
-* Add the test case helper for rSpec from octopod / airgead.
+* Add the test case helper for rSpec from octopod / airgead http://github.com/octopod/airgead/tree/master/spec/rucola/controller_example_group.rb.
 
 == PassengerPane
 * Apply/check/fix patch for Rack support
