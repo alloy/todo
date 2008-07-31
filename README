@@ -1,0 +1,11 @@
+== Rucola
+* Add the test case helper for rSpec from octopod / airgead.
+
+== PassengerPane
+* Apply/check/fix patch for Rack support
+
+== WebApp
+* Finish the WebApp application builder
+
+== MacRuby
+* Work on RubyCocoa layer, see the tickets: http://www.macruby.org/trac/ticket/70, http://www.macruby.org/trac/ticket/89
